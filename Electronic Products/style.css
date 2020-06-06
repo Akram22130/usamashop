@@ -1,0 +1,12 @@
+.page-footer{
+    background-color: lawngreen;
+    position: relative;
+    top: 250px;
+}   
+
+.navbar-brand{
+    font-weight: bolder;
+    font-size: medium;
+    color: lawngreen !important;
+
+}

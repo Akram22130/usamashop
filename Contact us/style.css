@@ -1,0 +1,31 @@
+.navbar{
+    background-color: whitesmoke !important;
+}
+.nav-link{
+    color: black !important;
+    font-weight: bold !important;
+}
+.fa-shopping-cart,.fa-user{
+    font-size: 32px !important;
+}
+
+.page-footer{
+    background-color: lawngreen;
+    position: relative;
+    top: 160px;
+}
+.contact{
+    text-align: center;
+}
+
+.nav-link:hover{
+    background-color:lawngreen;
+    border-radius: 2rem;
+}
+
+.navbar-brand{
+    font-weight: bolder;
+    font-size: medium;
+    color: lawngreen !important;
+
+}
